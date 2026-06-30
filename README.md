@@ -1,3 +1,9 @@
+<div align="center">
+  <b>Personal Portfolio:</b>
+  <a href="https://github.com/bhung-chung/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
+  <a href="https://github.com/bhung-chung/Drone-Object-Detection">Drone Object Detection</a> |
+  <a href="https://github.com/bhung-chung/Heart-Disease-Prediction">Heart Disease Prediction</a>
+</div><br>
 # BanglaMisinformationGuard
 
 A complete end-to-end **Bangla fake news detection system**, built as a capstone project for the **Machine Learning Zoomcamp**.
@@ -286,3 +292,4 @@ BanglaMisinformationGuard/
 ## 12. License
 
 This project is released for **educational and research purposes**.
+
